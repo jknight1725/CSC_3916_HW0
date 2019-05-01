@@ -11,13 +11,13 @@ meaning the http can be in a gzip
 Content-Type ?application/json; charset=UTF-8
 meaning Base64-encoded binary MD5 sum of the content of the request body
 
-Date ?Tue, 30 Jan 2018 21:07:42 GMT
+Date ?Tue, 30 Jan 2019 21:07:42 GMT
 the time and date the message was originated
 
 ETag ?"f6QLsd8inUgRKJVNBqJ8xHnPb0w/qf7Fg2SYRIoio4sScrD5jq-Aiso"
 is an identifier for a specific version of a resouce
 
-Expires ?Tue, 30 Jan 2018 21:07:42 GMT
+Expires ?Tue, 30 Jan 2019 21:07:42 GMT
 Time and date when the request expires and the request has to go all the way to server
 
 Server ?GSE
